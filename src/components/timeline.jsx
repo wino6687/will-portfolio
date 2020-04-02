@@ -8,8 +8,8 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <span className="heading-meta">Timeline</span>
+                <h2 className="colorlib-heading animate-box">Experience</h2>
               </div>
             </div>
             <div className="row">
@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Research Assistant at EarthLab <span>2019-2020</span></h2>
+                        <h2>Research Assistant at EarthLab - Analytics Hub <span>2019-2020</span></h2>
                         <p> I was hired as a research assistant for the Analytics Hub at EarthLab after completing my internship. My work for the Analytics Hub focused on developing open source tools for accessing and processing large sattelite datasets, particularly netCDF files.</p>
                       </div>
                     </div>

@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-30 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I'm passionate<br /> about Data</h1>
+                          <h1>I'm passionate<br /> about data</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/wino6687" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
