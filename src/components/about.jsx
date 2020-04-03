@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>Coming from a CS background, I have a good grasp over fundamental concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -64,29 +64,30 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Big Data</h3>
+                    <p>I have worked on several projects involving datasets larger than 10TB. I have experience using multiprocessing and distributed computing to help process large matrices. I have also spent time making functionality more efficient for large datasets, like vectorizing.</p>
                 </div>
                 </div>
             </div>
+           
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
                     <i className="icon-layers2" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <h3>Machine Learning</h3>
+                    <p>I have employed basic machine learning techniques in my research to great success. I have also spent time working with LSTM and Conv-LSTM neural networks to predict snowpack metrics. I have completed several courses pertaining to machine learning and deep learning.</p>
                 </div>
                 </div>
             </div>
+            {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
