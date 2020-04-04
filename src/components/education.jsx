@@ -38,6 +38,11 @@ export default class Education extends Component {
                           <li>Big Data Architecture</li>
                           <li>Big Data</li>
                           <li>Discrete Math</li>
+                          <span class="btn btn-outline-link">C/C++</span>
+                          <span class="btn btn-outline-link">Python</span>
+                          <span class="btn btn-outline-link">R</span>
+                          <span class="btn btn-outline-link">SQL</span>
+                          <span class="btn btn-outline-link">GIT</span>
                         </ul>
                       </div>
                     </div>
@@ -51,13 +56,17 @@ export default class Education extends Component {
                     </div>
                     <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                       <div className="panel-body">
-                        <p>I completed my Geography degree in 2018 with a GPA of 3.86. I focused on Geographic Information Science while working on my Geography degree. I worked with ESRI software, but mainly used open source solutions to solve spatio-temporal problems.</p>
+                        <p>I completed my Geography degree in 2018 with a GPA of 3.86. I focused on Geographic Information Science while working on my Geography degree. I worked with ESRI software, but prefer to use open source python solutions to solve problems. My coursework covered a broad range of topics ranging from Geomorphology to Spatial Programming.</p>
                         <span className="heading-meta">Coursework</span>
                         <ul>
-                          <li>GIS 1, 2, 3</li>
+                          <li>GIS Fundamentals</li>
+                          <li>Spatial Modeling</li>
+                          <li>Earth Data Science</li>
                           <li>Geospatial Statitics</li>
                           <li>GIS Programming</li>
-                          <li>Earth Data Science</li>
+                          <li>Cartography</li>
+                          <li>Geomorphology</li>
+                          <li>Atmoshperic Science</li>
                         </ul>
                       </div>
                     </div>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom';
 
 export default class Sidebar extends Component {
   render() {
@@ -25,6 +26,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
+                {/*<li><Link to="/blog">Blog</Link></li>*/}
                 <li><a href="https://www.facebook.com/will.norris.35" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/wino6687" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.instagram.com/willhikes/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>

@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Bio</span>
                     <h2 className="colorlib-heading">About Me</h2>
-                    <p>I am a graduate of CU Boulder with degrees in Computer Science and Geography. I also obtained a profesional certificate in Geographic Information Science from CU. I love learning from data, but have found firsthand that there is limited useful information in raw data. Our job as data scientists is to process this raw data to find the useful content hidden inside.</p>
+                    <p>I am a graduate of CU Boulder with degrees in Computer Science and Geography. I also obtained a profesional certificate in Geographic Information Science from CU. I love learning from data, but have found firsthand that there is limited useful information in raw data. Our job as data scientists is to process this raw data to find the useful content hidden inside. While programming and data science are my passions at work, I also enjoy being outdoors. I spend my free time hiking, running, and taking pictures of beautiful Colorado.</p>
                     <p></p>
                     </div>
                 </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>Coming from a CS background, I have a good grasp over fundamental concepts of DSA</p>
+                    <h3>Teaching Programming</h3>
+                    <p>I have taught several classes on various programming topics including: Spatial Statistics, GIS programming, Object Oriented Python.</p>
                 </div>
                 </div>
             </div>
@@ -75,7 +75,6 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-           
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
@@ -94,8 +93,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Teaching Programming</h3>
+                    <p>I have taught several classes on various programming topics including: Spatial Statistics, GIS programming, Object Oriented Python, </p>
                 </div>
                 </div>
             </div>
