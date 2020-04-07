@@ -14,6 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">Bio</span>
                     <h2 className="colorlib-heading">About Me</h2>
                     <p>I am a graduate of CU Boulder with degrees in Computer Science and Geography. I also obtained a profesional certificate in Geographic Information Science from CU. I love learning from data, but have found firsthand that there is limited useful information in raw data. Our job as data scientists is to process this raw data to find the useful content hidden inside. While programming and data science are my passions at work, I also enjoy being outdoors. I spend my free time hiking, running, and taking pictures of beautiful Colorado.</p>
+                    <p>My goal with this website is to have a central place to display my portfolio but also to eventually create a blog and central place to display photography projects.</p>
                     <p></p>
                     </div>
                 </div>
