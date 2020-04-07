@@ -61,7 +61,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I have experience publishing python libraries and working in cloud workflows that invovle working with tools like TravisCI, Docker, K8s, etc.</p>
+                    <p>I have experience publishing python libraries and working in cloud workflows that involve working with tools like TravisCI, Docker, K8s, etc.</p>
                 </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Machine Learning</h3>
-                    <p>I have employed basic machine learning techniques in my research to great success. I have also spent time working with LSTM and Conv-LSTM neural networks to predict snowpack metrics. I have completed several courses pertaining to machine learning and deep learning.</p>
+                    <p>I have employed basic machine learning techniques in my research to great success. I have also spent time working with LSTM and Conv-LSTM neural networks to predict snowpack metrics over large spatial extents. I have completed several courses pertaining to machine learning and deep learning.</p>
                 </div>
                 </div>
             </div>
