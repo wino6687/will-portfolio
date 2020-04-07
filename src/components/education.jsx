@@ -26,7 +26,7 @@ export default class Education extends Component {
                     </div>
                     <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                       <div className="panel-body">
-                        <p>I completed my degree in computer science in 2019 with a <strong>GPA of 3.86.</strong> </p>
+                        <p>I completed my degree in computer science in 2019 with a <strong>GPA of 3.86.</strong> I learned a broad range of skills during my time in CS at CU. I primarily focused on learning skills pertaining to data science in python, but also obtained the core skill of CS (data structures, algorithms). Some of my interest areas focused on becoming fluent with python's available libraries like numpy, pandas, scikit-learn/image, pyTorch, and dask. I also learned quite a bit about applying machine learning to problems in natural language processing and spatio-temporal problems. There are so many topics in CS that I could never cover them all in my 4 years of undergrad, but I am confident that I can quickly learn languages or other technologies I haven't previously used.</p>
                         <span className="heading-meta">Coursework</span>
                         <ul>
                           <li>Algorithms</li>
@@ -42,6 +42,7 @@ export default class Education extends Component {
                           <span class="btn btn-outline-link">Python</span>
                           <span class="btn btn-outline-link">R</span>
                           <span class="btn btn-outline-link">SQL</span>
+                          <span class="btn btn-outline-link">MongoDB</span>
                           <span class="btn btn-outline-link">GIT</span>
                         </ul>
                       </div>
