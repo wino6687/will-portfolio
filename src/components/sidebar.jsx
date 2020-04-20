@@ -30,6 +30,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.instagram.com/willhikes/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/will-norris-b53236156/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/wino6687" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <p><a className="btn btn-outline-primary" href="blog.willmnorris.com" target="_blank" rel="noopener noreferrer">Blog<i className="icon-download4" /></a></p>
                 <p><a className="btn btn-outline-primary" href="https://drive.google.com/file/d/19RJ7PueP12252GRegTL0MiGYYQMN0-nr/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link<i className="icon-download4" /></a></p>
               </ul>
             </nav>
