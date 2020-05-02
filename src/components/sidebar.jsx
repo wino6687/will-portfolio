@@ -31,7 +31,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.linkedin.com/in/will-norris-b53236156/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/wino6687" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <p><a className="btn btn-outline-primary" href="https://blog.willmnorris.com">Blog<i className="icon-book" /></a></p>
-                <p><a className="btn btn-outline-primary" href="https://drive.google.com/file/d/19RJ7PueP12252GRegTL0MiGYYQMN0-nr/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link<i className="icon-download4" /></a></p>
+                <p><a className="btn btn-outline-primary" href="https://drive.google.com/file/d/1paMBRJEJS8Z8C4Ys4e-2WeHX5uhH7EZc/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link<i className="icon-download4" /></a></p>
               </ul>
             </nav>
             <div className="colorlib-footer">
